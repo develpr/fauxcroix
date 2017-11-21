@@ -1,0 +1,8 @@
+{
+  "name": "fauxcroix",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::875368300634:role/fauxcroix_lambda_function",
+  "environment": {}
+}
